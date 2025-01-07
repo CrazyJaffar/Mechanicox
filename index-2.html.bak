@@ -114,10 +114,10 @@
 						  
 
 						  						  <li class="nav-item">
-							<a class="nav-link" href="user.html">Login</a>
+							
 						  </li>
 						  <li class="nav-item"> 
-							<a class="nav-link" href="frontend/users/register.html">Sign Up</a>
+							
 						  </li>
 						  						</ul>
 					</div>
@@ -147,7 +147,7 @@
 		<div class="row">
 			<div class="col-md-6 text-right supplier-part">
 				<h2>Are you a professional supplier?</h2>
-								<a href="frontend/users/register.html" class=" btn btn-style">Register here</a>
+								<a href="#" class=" btn btn-style">Register here</a>
 							</div>
 			<div class="col-md-6 supplier-part2">
 				<h2>Are you looking for vehicle part?</h2>
@@ -735,7 +735,7 @@ jQuery('body').on('click', '.advFormSubmit', function(){
 					  <p>© 2020 All Right Reserved By Ocean Auto Parts LLC.</p>
 				  </div>
 				  <div class="col-sm-6 text-right">
-					  <p><a href="https://www.innzes.com/" target="_blank">Website Design services</a> By <a href="https://instagram.com/jaffar_._sadiq?igshid=ozr91s08qhfs" target="_blank">Jaffar Sadiq</a></p>
+					  
 				  </div>
 			  </div>
 		  </div>
