@@ -113,10 +113,10 @@
 						 
 
 						  						  <li class="nav-item">
-							<a class="nav-link" href="../user.html">Login</a>
+							
 						  </li>
 						  <li class="nav-item"> 
-							<a class="nav-link" href="../frontend/users/register.html">Sign Up</a>
+							
 						  </li>
 						  						</ul>
 					</div>
@@ -285,7 +285,7 @@ Your personal data is used for internal purposes only and is never sold or share
 										<ul class="contact-menu">
 						<li><a href="tel:(331) 757-1137"><i class="fas fa-phone-volume"></i>(331) 757-1137</a></li>
 						
-						<li><a href="mailto:oceanautopartss@gmail.com"><i class="far fa-envelope"></i>oceanautopartss@gmail.com</a></li>
+						<li><a href="mailto:derekmj007@gmail.com"><i class="far fa-envelope"></i>oceanautopartss@gmail.com</a></li>
 						
 					</ul>
 				</div>
